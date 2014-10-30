@@ -1,0 +1,67 @@
+Partlist exported from /Users/victor/Dropbox/Erle_Robotics/PCB/openmv/eagle/openmv3/openmv3.sch at 29/10/14 20:15
+
+Part  Value                  Device                 Package              Description                                                             MF MPN OC_FARNELL OC_NEWARK TP_SIGNAL_NAME
+C1    22uF                   CAP0805                0805                 Capacitor                                                                                                         
+C2    100uF                  CAP1210                1210                 Capacitor                                                                                                         
+C3    100uF                  CAP1210                1210                 Capacitor                                                                                                         
+C4    1uF                    CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C5    0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C6    0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C7    0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C8    0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C9    0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C10   0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C11   22uF                   CAP1206                1206                 Capacitor                                                                                                         
+C13   0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C14   0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C15   4.7uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C16   0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C17   0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C18   0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C19   4.7uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C20   0.1uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C23   1uF                    CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C24   1uF                    CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C40   12pF                   CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C41   12pF                   CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C48   2.2uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+C49   2.2uF                  CAP0603-CAP            0603-CAP             Capacitor                                                                                                         
+D1                           DIODESOD               SOD-323              Diode                                                                                                             
+D2                           DIODESOD               SOD-323              Diode                                                                                                             
+H2    MOUNT-PAD-ROUND2.8     MOUNT-PAD-ROUND2.8     2,8-PAD              MOUNTING PAD, round                                                                                               
+H6    MOUNT-PAD-ROUND2.8     MOUNT-PAD-ROUND2.8     2,8-PAD              MOUNTING PAD, round                                                                                               
+J3    CON_HEADER_1X03        CON_HEADER_1X03        M1X3_SMD                                                                                                                               
+J4    CON_HEADER_1X03        CON_HEADER_1X03        M1X3_SMD                                                                                                                               
+JP3                          PINHD-1X8              1X08                 PIN HEADER                                                                                                        
+JP4                          PINHD-1X8              1X08                 PIN HEADER                                                                                                        
+LED1  LED-TRICOLOR           LED-TRICOLOR           LED-TRICOLOR-SMD     Tri-Color LED SMD                                                                                                 
+LED2                         LED3MM                 LED3MM               LEDs                                                                                                              
+LED3                         LED3MM                 LED3MM               LEDs                                                                                                              
+LOGO1 OSHW_LOGO_FILLX0150-NT OSHW_LOGO_FILLX0150-NT OSHW_FILLX150_NOTEXT                                                                                                                   
+Q1    MOSFET                 MOSFET-NCHANNELSMD     SOT23-3                                                                                                                                
+R1    10ohm                  RESISTOR0603-RES       0603-RES             Resistor                                                                                                          
+R5    10k                    RESISTOR0603-RES       0603-RES             Resistor                                                                                                          
+RN4   220R                   4R-NEXBV8V             EXBV8V               Array Chip Resistor                                                            unknown    unknown                 
+RN5   10K                    4R-NEXBV8V             EXBV8V               Array Chip Resistor                                                            unknown    unknown                 
+RN6   10K                    4R-NEXBV8V             EXBV8V               Array Chip Resistor                                                            unknown    unknown                 
+RN7   10K                    2R-NEXBV4V             EXBV4V               Array Chip Resistor                                                            unknown    unknown                 
+RN8   27R                    2R-NEXBV4V             EXBV4V               Array Chip Resistor                                                            unknown    unknown                 
+TP1   TPTP12R                TPTP12R                TP12R                Test pad                                                                                                          
+TP2   TPTP12R                TPTP12R                TP12R                Test pad                                                                                                          
+U$1   LENSMOUNT20MM          LENSMOUNT20MM          LENSMOUNT-20MM                                                                                                                         
+U$14  FIDUCIAL               FIDUCIAL               FIDUCIAL_1MM         For use by pick and place machines to calibrate the vision/machine, 1mm                                           
+U$15  FIDUCIAL               FIDUCIAL               FIDUCIAL_1MM         For use by pick and place machines to calibrate the vision/machine, 1mm                                           
+U$16  FIDUCIAL               FIDUCIAL               FIDUCIAL_1MM         For use by pick and place machines to calibrate the vision/machine, 1mm                                           
+U$17  FIDUCIAL               FIDUCIAL               FIDUCIAL_1MM         For use by pick and place machines to calibrate the vision/machine, 1mm                                           
+U$19  FIDUCIAL               FIDUCIAL               FIDUCIAL_1MM         For use by pick and place machines to calibrate the vision/machine, 1mm                                           
+U$20  FIDUCIAL               FIDUCIAL               FIDUCIAL_1MM         For use by pick and place machines to calibrate the vision/machine, 1mm                                           
+U1    BD33IA                 BD33IA                 HTSOP-J8                                                                                                                               
+U2    USD-47571              USD-47571              USD-47571                                                                                                                              
+U3                           INDUCTOR0603           0603                 Inductors                                                                                                         
+U6                           INDUCTOR0603           0603                 Inductors                                                                                                         
+U7                           INDUCTOR0603           0603                 Inductors                                                                                                         
+U8    VREG_25                V_REG_LDOSMD           SOT23-5              Voltage Regulator LDO                                                                                             
+U9    OV2640                 OV2640                 CSP2                                                                                                                                   
+U12   STM32F407LQFP100       STM32F407LQFP100       LQFP100                                                                                                                                
+X2    USB-MICROB             USB-MICROB             USB-MICROB           USB Connectors                                                                                                    
+Y1                           CRYSTAL2.5X2.0         CRYSTAL-2.5X2.0      Crystals                                                                                                          
