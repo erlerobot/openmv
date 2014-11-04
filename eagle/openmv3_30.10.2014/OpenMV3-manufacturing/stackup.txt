@@ -1,0 +1,27 @@
+[PCB Stackup]
+
+openmv3.mnt …………………….. Mount Top
+
+openmv3.tslk …………………….. Top SilkScreen
+
+openmv3.tstop …………………….. Top Solder Stopmask
+
+openmv3.lyr1……………………..Top Routing Layer
+
+openmv3.lyr2……………………..Ground Plane
+
+openmv3.lyr3……………………..Power Plane
+
+openmv3.lyr4……………………..Bottom Routing Layer
+
+openmv3.bstop …………………….. Bottom Solder Stopmask
+
+openmv3.bslk …………………….. Bottom SilkScreen
+
+openmv3.mnb …………………….. Mount Bottom
+
+
+[Others]
+
+openmv3.ncd  …………………….. NC Drill File
+openmv3.gpi …………………….. Gerber photoplotter information data
